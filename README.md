@@ -74,6 +74,127 @@ User Login authencation
 
 
 
+User Home
+
+
+
+![Screenshot (355)](https://github.com/user-attachments/assets/cdb2c992-bd20-4601-b8fa-7d9b899ffd15)
+
+
+
+
+
+
+User view Train Schedule
+
+
+
+
+
+![Screenshot (356)](https://github.com/user-attachments/assets/5ce1a09f-02ea-4bde-a367-c09d4e1b8053)
+
+
+
+
+
+User View Available Trains details Today
+
+
+
+
+
+![Screenshot (357)](https://github.com/user-attachments/assets/7c72f694-e637-47e3-b4f6-9d4f44c33d8e)
+
+
+ 
+ 
+ 
+ 
+ Train search for ticket reservation
+
+
+
+
+![Screenshot (402)](https://github.com/user-attachments/assets/7c11d80b-d830-403d-bc70-dbe3ab434122)
+
+
+
+
+
+
+Ticket Reservation 
+
+
+
+![Screenshot (361)](https://github.com/user-attachments/assets/617e16af-da64-41ed-ac87-e0f65dcbf81e)
+
+
+
+
+
+Onloine Ticket Purchase Counter 
+
+
+
+
+
+![Screenshot (361)](https://github.com/user-attachments/assets/ea263710-433e-4b76-afbc-37c0cdb3c911)
+
+
+
+
+
+
+Online Payment for ticket purchase
+
+
+
+
+
+![Screenshot (362)](https://github.com/user-attachments/assets/1b90c39a-1da6-4d05-8036-c157476ed3f5)
+
+
+
+
+
+User Registration
+
+
+
+
+![Screenshot (363)](https://github.com/user-attachments/assets/c784ec34-11b6-4dea-9e45-d2a239133adc)
+
+
+
+
+
+Admin Login
+
+
+
+
+![Screenshot (364)](https://github.com/user-attachments/assets/a59fa5be-1510-40b8-9f89-0958baaf92df)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
