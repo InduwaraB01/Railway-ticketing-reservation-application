@@ -132,18 +132,6 @@ Ticket Reservation
 
 
 
-Onloine Ticket Purchase Counter 
-
-
-
-
-
-![Screenshot (361)](https://github.com/user-attachments/assets/ea263710-433e-4b76-afbc-37c0cdb3c911)
-
-
-
-
-
 
 Online Payment for ticket purchase
 
@@ -174,6 +162,59 @@ Admin Login
 
 
 ![Screenshot (364)](https://github.com/user-attachments/assets/a59fa5be-1510-40b8-9f89-0958baaf92df)
+
+
+
+Admin User Manage
+
+
+
+![Screenshot (411)](https://github.com/user-attachments/assets/c09e143d-3c53-4d75-bfbb-acbb6e1fb369)
+
+
+
+Admin Route Manage
+
+
+![Screenshot (413)](https://github.com/user-attachments/assets/1d741178-7bb6-4e35-9f46-ce6534cb4e8e)
+
+
+
+
+Admin Railway Station Manage
+
+
+![Screenshot (415)](https://github.com/user-attachments/assets/65e3d372-2225-4afd-bed4-292bb18c63bc)
+
+
+
+
+Admin Train Schedule Management
+
+
+
+
+![Screenshot (416)](https://github.com/user-attachments/assets/5342f165-fef9-4b7b-8fcf-b25ff0e4a99e)
+![Screenshot (417)](https://github.com/user-attachments/assets/01a48207-53f1-4a32-937c-0f794024f25a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
