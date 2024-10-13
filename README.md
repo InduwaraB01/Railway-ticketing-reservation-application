@@ -52,6 +52,11 @@ Train Information and Booking:
 
 ✔️Integrated Development Environment (IDE): Visual Studio
 
+Onload screen
+![Screenshot (353)](https://github.com/user-attachments/assets/13acfde4-75de-483b-9289-021686e86bed)
+
+
+
 
 
 
